@@ -5,6 +5,9 @@ wiki collections
 
 test
 
+
+this is try to 
+
 ### 设计模式
 
 - [应用责任链设计模式](微信公众号文章/设计模式实战/代码多版改造，应用责任链设计模式.pdf)
