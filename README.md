@@ -3,6 +3,7 @@ wiki collections
 
 ## 目录
 
+test
 
 ### 设计模式
 
